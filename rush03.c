@@ -41,7 +41,7 @@ void	print_last_row(int length_of_row)
 	index2 = length_of_row;
 	if (length_of_row == 1)
 	{
-		ft_putchar('C');
+		ft_putchar('A');
 	}
 	else
 	{
